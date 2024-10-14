@@ -1,4 +1,4 @@
-//References for this exercise: dart.dev, Youtube, StackOverflow, course website, google, and other
+//References for this exercise: dart.dev, Youtube, StackOverflow, course website, google
 import 'dart:convert';
 
 class Students {
